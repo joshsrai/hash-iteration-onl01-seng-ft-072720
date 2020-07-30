@@ -4,6 +4,11 @@
 #   "Amanda" => 27
 # }
 
+
+
+
+
+
 def happy_birthday(birthday_kids)
 birthday_kids.collect do |kids_name, age|  
     if age <= 12
